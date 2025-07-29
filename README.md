@@ -10,7 +10,7 @@ A hand-cranked pizza dough mixer utilizing a planetary gear mechanism. The effic
 
 ## 特徴 / Features
 
--   🔧 **遊星歯車機構**: 効率的な減速比で軽い力でもしっかりと混練
+-   🔧 **遊星歯車機構**: 効率的な減速比2.25倍で軽い力でもしっかりと混練
 -   🍕 **ピザ生地専用設計**: 最適な混練パターンでグルテンを効果的に形成
 -   🖨️ **3D プリンタ対応**: 家庭用 3D プリンタで製作可能
 -   📐 **複数フォーマット対応**: STEP、F3D、STL ファイルを提供
